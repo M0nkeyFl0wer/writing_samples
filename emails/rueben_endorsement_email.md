@@ -14,9 +14,7 @@ For generations, First Nations communities have faced governments who talk recon
 
 This endorsement means the world to me — and I’m asking you to help us finish strong.
 
-**If you’re able to chip in to help us reach more voters in these critical final days, [please give what you can here](https://www.voteavi.ca/donate-rueben):**
-
-[![Donate to Avi's Campaign](https://assets.nationbuilder.com/vcndp/themes/63f91f212c083b0cc9b0c6f0/attachments/original/Donate_Button.png)](https://www.voteavi.ca/donate-rueben)
+**If you’re able to chip in to help us reach more voters in these critical final days, [please give what you can here](https://www.voteavi.ca/donate-rueben)**
 
 We are so close to a fully funded campaign that maximizes the amount we are allowed to spend. Every single dollar helps us connect with undecided voters and push back against right-wing misinformation about vote splitting.
 
