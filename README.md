@@ -1,5 +1,4 @@
 # ✍️ Writing Samples – Ben West (he/they)  
-**Senior Communications Manager Application | Bluesky**
 
 Hi there — I’m Ben, a writer and strategist with 25 years of experience working at the intersection of activism, tech, and public infrastructure. I’ve led comms for climate campaigns, helped launch open-source tools, and worked with teams building the future of digital trust and identity.
 
