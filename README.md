@@ -1,8 +1,8 @@
 # ✍️ Writing Samples – Ben West (he/they)  
 
-Hi there — I’m Ben, a writer and strategist with 25 years of experience working at the intersection of activism, tech, and public infrastructure. I’ve led comms for climate campaigns, helped launch open-source tools, and worked with teams building the future of digital trust and identity.
+Hi there I’m Ben, a writer and strategist with 25 years of experience helping movements, campaigns, and tech teams communicate with clarity and purpose. I’ve led comms for climate justice efforts, open-source platforms, and public interest tools always focused on making complex systems feel human.
 
-This repo includes a selection of writing samples aligned with the kinds of work outlined in Bluesky’s Senior Communications Manager role, all rooted in the idea that language should make systems more accessible.
+This repo collects writing samples aligned with the Bluesky Senior Communications Manager role. Each piece reflects a core belief that language should open doors, not reinforce silos and that storytelling is infrastructure too.
 
 ---
 
