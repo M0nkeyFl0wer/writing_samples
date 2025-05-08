@@ -63,3 +63,10 @@ Also opposed to the Kinder Morgan proposal is **Rueben George**, Sundance chief 
 ---
 
 Based in **Houston, Texas**, **Kinder Morgan** is one of the largest pipeline transportation and energy storage companies in North America, with more than 37,000 miles of pipelines and 180 terminals. **Kinder Morgan Canada** is based in **Calgary, Alberta**.
+
+
+--30--
+
+For more information:
+
+Ben West, Wilderness Committee, (604) 710-5##0
