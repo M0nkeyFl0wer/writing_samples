@@ -32,7 +32,7 @@ Gov Forum Post: [Thrive Incentive Structure Plan](https://github.com/M0nkeyFl0we
 
 Gov Forum Post: [Best Practices for Partnerships](https://github.com/M0nkeyFl0wer/writing_samples/blob/main/gov_forum_posts/best_practices_for_partnerships.md) 
 
-## 5. Thought Leadership & Ghostwriting
+## 5. Ghostwriting and Collaboration
 
 Email: [Stephen Lewis](https://github.com/M0nkeyFl0wer/writing_samples/blob/main/emails/StephenLewis.md)
 
