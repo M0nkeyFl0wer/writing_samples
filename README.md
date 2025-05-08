@@ -20,9 +20,11 @@ Press Release: [Statement on Fire at Nicholson Towers](https://github.com/M0nkey
 
 Press Release: [Vancouver Environmentalists Launch Oil Tanker Tracker](https://github.com/M0nkeyFl0wer/writing_samples/blob/main/press_releases/Oil_Tanker_Tracker.md)
 
-## 3. Product & Technical Communications
+## 3. Product & Tech Communications
 
 Gov Forum Post: [Arbitrum Pluralistic Grants Program - Milestone Update](https://github.com/M0nkeyFl0wer/writing_samples/blob/main/gov_forum_posts/Arbitrum_Pluralistic_Grants_Program_Milestone_Update.md)
+
+Gov Forum Post: [Thrive Incentive Structure Plan](https://github.com/M0nkeyFl0wer/writing_samples/blob/main/gov_forum_posts/Thrive_Incentive_Structure_Plan.md)
 
 ## 4. Community Engagement and Governance
 
