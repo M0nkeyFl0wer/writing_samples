@@ -24,6 +24,8 @@ Press Release: [Vancouver Environmentalists Launch Oil Tanker Tracker](https://g
 
 Gov Forum Post: [Arbitrum Pluralistic Grants Program - Milestone Update](https://github.com/M0nkeyFl0wer/writing_samples/blob/main/gov_forum_posts/Arbitrum_Pluralistic_Grants_Program_Milestone_Update.md)
 
+Readme file: [PrivID Project Description](https://github.com/elephant-dog-org/privid/blob/main/README.md)
+
 Gov Forum Post: [Thrive Incentive Structure Plan](https://github.com/M0nkeyFl0wer/writing_samples/blob/main/gov_forum_posts/Thrive_Incentive_Structure_Plan.md)
 
 ## 4. Community Engagement and Governance
