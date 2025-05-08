@@ -1,5 +1,5 @@
 
-## 🎤 Presentations
+## Presentations
 
 This slide deck was presented to staff and team members from the City of Jasper for a workshop on consulting hard-to-reach groups using micro-targeting. I later repurposed this presentation as a case study at a conference for public engagement professionals.
 
@@ -7,7 +7,7 @@ This slide deck was presented to staff and team members from the City of Jasper 
 
 ---
 
-## 📊 Reports
+## Reports
 
 These two reports are from public engagements I coordinated for [Ethelo](https://www.ethelo.com/):
 
@@ -22,20 +22,20 @@ Both campaigns included targeted digital outreach and community consultation.
 
 ---
 
-## 🧑‍🏫 Webinars
+## Webinars
 
 🎥 [Online Community Engagement for First Nations Communities](https://vimeo.com/484497824?share=copy#t=1406.338)  
 🎥 [Climate SAFE Cities: The Movement for Fossil Fuel Free Communities](https://vimeo.com/466163674?share=copy#t=2125.736)
 
 ---
 
-## 🎙️ Twitter Spaces
+## Twitter Spaces
 
 🔊 [UNICEF Grants Round Kickoff (Twitter/X)](https://x.com/i/spaces/1OyKAVkpNlbGb)
 
 ---
 
-## 🎧 Podcasts
+## Podcasts
 
 🎧 [Crypto Altruism Podcast: Elevating Public Goods w/ Gitcoin](https://www.cryptoaltruism.org/blog/crypto-altruism-podcast-episode-129-gitcoin-elevating-public-goods-with-decentralization-quadratic-funding-and-community-coordination)  
 🎧 [Thrive Protocol: Community Incentive Structures](https://podcasts.apple.com/us/podcast/impact-maker-community-incentive-structures-with-ben/id1588346317?i=1000663464757)  
