@@ -25,7 +25,7 @@ A selection of campaign videos, media appearances, and documentary work.
 
 ## 📺 Media & Short Features
 
-### 🔹 Keynote - Greenesr City conference 
+### 🔹 Keynote - Greenest City conference 
 [![The Greenest City](https://vumbnail.com/389306441.jpg)](https://vimeo.com/389306441)
 
 ---
@@ -37,8 +37,8 @@ A selection of campaign videos, media appearances, and documentary work.
 
 ## 🎤 Public Speaking & Outreach
 
-### 🔹 Protecting What We Love – Speech Clip  
-[![Protecting What We Love](https://img.youtube.com/vi/tuwNtygdLf0/0.jpg)](https://youtu.be/tuwNtygdLf0)
+### 🔹My Poem for Ezra Levant - Debate - closing 
+[![My Poem for Ezra](https://img.youtube.com/vi/tuwNtygdLf0/0.jpg)](https://youtu.be/tuwNtygdLf0)
 
 ---
 
