@@ -16,10 +16,6 @@ A selection of campaign videos, media appearances, and documentary work.
 
 ---
 
-### 🔹 Speak Now or Forever Hold Your Breath  
-[![Speak Now or Forever Hold Your Breath](https://img.youtube.com/vi/-Kaeo2RrXDM/0.jpg)](https://youtu.be/-Kaeo2RrXDM)
-
-
 ## 🎞️ Documentary Film
 
 ### 🔹 Alarm Clocks Kill Dreams – The Trailer  
