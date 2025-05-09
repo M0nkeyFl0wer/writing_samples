@@ -11,15 +11,14 @@ A selection of campaign videos, media appearances, and documentary work.
 
 ---
 
-### 🔹 Speak Now or Forever Hold Your Breath  
-[![Speak Now or Forever Hold Your Breath](https://img.youtube.com/vi/-Kaeo2RrXDM/0.jpg)](https://youtu.be/-Kaeo2RrXDM)
-
----
-
 ### 🔹 The Great Climate Race – Trailer  
 [![The Great Climate Race](https://img.youtube.com/vi/TgANQTUsOW8/0.jpg)](https://youtu.be/TgANQTUsOW8)
 
 ---
+
+### 🔹 Speak Now or Forever Hold Your Breath  
+[![Speak Now or Forever Hold Your Breath](https://img.youtube.com/vi/-Kaeo2RrXDM/0.jpg)](https://youtu.be/-Kaeo2RrXDM)
+
 
 ## 🎞️ Documentary Film
 
@@ -30,13 +29,13 @@ A selection of campaign videos, media appearances, and documentary work.
 
 ## 📺 Media & Short Features
 
-### 🔹 The Greenest City – Short Documentary  
+### 🔹 Keynote - Greenesr City conference 
 [![The Greenest City](https://vumbnail.com/389306441.jpg)](https://vimeo.com/389306441)
 
 ---
 
-### 🔹 Work Less Party – Campaign Promo  
-[![Work Less Party Promo](https://vumbnail.com/64615761.jpg)](https://vimeo.com/64615761)
+### 🔹 Media Interview 
+[![Interview on pipelines](https://vumbnail.com/64615761.jpg)](https://vimeo.com/64615761)
 
 ---
 
