@@ -2,7 +2,7 @@
 
 Hi there, I’m Ben, a strategic communications professional, community organizer, and systems thinker with 25 years of experience at the intersection of public policy, technology, and digital infrastructure. I've led communications for climate solutions campaigns, scaled community engagement for open-source tools, and worked with teams building the future of digital trust and identity.
 
-This repository showcases a selection of writing samples e. Each piece reflects my belief that effective language makes complex systems more accessible and helps build lasting trust. Storytelling is infrastructure too.
+This repository showcases a selection of writing samples. Each piece reflects my belief that effective language makes complex systems more accessible and helps build lasting trust. Storytelling is infrastructure too.
 
 ---
 
